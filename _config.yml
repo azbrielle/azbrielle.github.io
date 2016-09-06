@@ -2,8 +2,8 @@
 title: A.Z. Brielle Stories
 tag_text: A.Z. Brielle Stories
 description: Short Stories by A.Z. Brielle
-url: "http://www.azbrielle.com"
-baseurl: "http://www.azbrielle.com"
+url: ""
+baseurl: ""
 
 font-awesome-include: true # make this false if you don't need font-awesome
 
