@@ -1,0 +1,13 @@
+# Site settings
+title: A.Z. Brielle Stories
+tag_text: A.Z. Brielle Stories
+description: Short Stories by A.Z. Brielle
+url: "http://www.azbrielle.com"
+baseurl: "http://www.azbrielle.com"
+
+font-awesome-include: false # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
