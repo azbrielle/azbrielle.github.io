@@ -59,6 +59,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providing the base for this template with his excellent work, [solo](https://github.com/chibicode).
 
+[Story 2](/page2.html)
+
 <hr>
 
 ##### Footnotes:
