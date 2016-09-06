@@ -2,7 +2,16 @@
 layout: default 
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+## A collection of short stories about fun things
+
+### 2016
+
+* [Story 2](/page2.html)
+* [A Really Great Story Title](/page2.html)
+* [A very scary Story](/page2.html)
+
+
+
 
 ### Nice, clean, reading!
 
@@ -59,7 +68,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providing the base for this template with his excellent work, [solo](https://github.com/chibicode).
 
-[Story 2](/page2.html)
 
 <hr>
 
