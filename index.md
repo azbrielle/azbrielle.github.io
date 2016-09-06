@@ -9,6 +9,7 @@ layout: default
 * [Story 2](/page2.html)
 * [A Really Great Story Title](/page2.html)
 * [A very scary Story](/page2.html)
+* [A very scary Story](/stories/page2.html)
 
 
 
