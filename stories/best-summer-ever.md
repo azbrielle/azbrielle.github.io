@@ -8,15 +8,15 @@ There was nothing Elizabeth liked better than spring and summer. She could final
  
 Summer Must-Do List
 By Elizabeth G. Marilson
-                                                                                                                                                    
--Go to the pool (at least) twice a week
--Catch fireflies
--Have a sleepover with Finley, Diana, and Xyla at least once or twice every month
--Save allowance for ice cream and candy (Also Twinkies)
--Bike to the library once a week
--Redecorate room
--Work in the garden often
--Note: Beg parents for family vacation
+
+* Go to the pool (at least) twice a week
+* Catch fireflies
+* Have a sleepover with Finley, Diana, and Xyla at least once or twice every month
+* Save allowance for ice cream and candy (Also Twinkies)
+* Bike to the library once a week
+* Redecorate room
+* Work in the garden often
+* Note: Beg parents for family vacation
  
 Elizabeth laid on her bed thinking about summer. The thought made her smile. But she was shaken from her thoughts when her Mom excitedly called, "Kids! Come here a minute!" 
 Elizabeth crept down the stairs to the living room where her parents sat. When Elizabeth and all six of her siblings were seated, Mom said, "Kids, I just got a call from our adoption consultant, and she said that there's a baby girl in Utah who needs a home, and she's ours if we want her." 
