@@ -41,3 +41,5 @@ Then the day came when Mom and Dad got to come home. The second their car stoppe
 Naomi snuggled up to Elizabeth and went to sleep again. 
 
 "**Best summer ever.**" Elizabeth whispered to baby Naomi, “I have a lot of fun things planned for us this summer!”
+
+{% include sharing.html %}
