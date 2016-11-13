@@ -7,8 +7,6 @@ layout: default
 ### 2016
 
 * [Best Summer Ever](/stories/best-summer-ever.html)
-* [A Really Great Story Title](/page2.html)
-* [Best Summer Ever](/stories/best_summer_ever.html)
 * [A very scary Story](/page2.html)
 * [A very scary Story](/stories/story1.html)
 
