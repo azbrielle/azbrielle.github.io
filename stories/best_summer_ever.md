@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 There was nothing Elizabeth liked better than spring and summer. She could finally shake off the winter blues and start planning fun summer activities. She especially loved the pool, biking, and ice cream. Right now, Elizabeth was making a list. 
  
 Summer Must-Do List
