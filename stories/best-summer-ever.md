@@ -8,7 +8,7 @@ There was nothing Elizabeth liked better than spring and summer. She could final
  
 _Summer Must-Do List_
 
-_By Elizabeth G. Marilson_
+*By Elizabeth G. Marilson*
 
 * Go to the pool (at least) twice a week
 * Catch fireflies
